@@ -33,7 +33,7 @@ Generate nginx self signed ssl cert
 - sudo openssl genrsa -out fluidd.key 2048
 - sudo openssl req -new -x509 -sha256 -key fluidd.key -out fluidd.crt -days 2100 -subj /CN=fluidd.local -addext "subjectAltName = DNS.1:fluidd.local, IP.1:192.168.180.137"
 
-Add three lines to /etc/nginx/sites-available/fluidd
+Add four lines to /etc/nginx/sites-available/fluidd
     listen 443 ssl http2;
     ssl on;
     ssl_certificate /etc/ssl/fluidd.crt;
