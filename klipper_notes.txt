@@ -1,0 +1,43 @@
+#####--------------------------------------------------------------------------
+Compile klipper MCU firmware:
+- ssh pi@192.168.180.137
+- cd ~/klipper/
+- make menuconfig
+- Enable "extra low-level configuration options"
+- Microcontroller = STM32F446 with 32KiB bootloader
+- Clock reference = 12MHz crystal
+- Communication interface = USART PD6/PD5
+- Save and quit
+- Run "make" then copy ~/klipper/out/klipper.bin to an SD card
+-- cp ~/klipper/out/klipper.bin ~/firmware.bin
+- Rename klipper.bin to firmware.bin 
+- Restart Octopus with SD card inserted
+- firmware.bin renamed to firmware.cur = flash success
+
+- https://docs.vorondesign.com/build/software/octopus_klipper.html
+#####--------------------------------------------------------------------------
+
+#####--------------------------------------------------------------------------
+Cura startup gcode : 
+PRINT_START BED={material_bed_temperature_layer_0} HOTEND={material_print_temperature_layer_0} CHAMBER={build_volume_temperature}
+#####--------------------------------------------------------------------------
+
+#####--------------------------------------------------------------------------
+Formula to calculate relative_reference_index (center of bed)
+[(7x7)-1] / 2 = 24
+#####--------------------------------------------------------------------------
+
+#####--------------------------------------------------------------------------
+Generate nginx self signed ssl cert
+- cd /etc/ssl/
+- sudo openssl genrsa -out fluidd.key 2048
+- sudo openssl req -new -x509 -sha256 -key fluidd.key -out fluidd.crt -days 2100 -subj /CN=fluidd.local -addext "subjectAltName = DNS.1:fluidd.local, IP.1:192.168.180.137"
+
+Add three lines to /etc/nginx/sites-available/fluidd
+    listen 443 ssl http2;
+    ssl on;
+    ssl_certificate /etc/ssl/fluidd.crt;
+    ssl_certificate_key /etc/ssl/fluidd.key;
+
+#####--------------------------------------------------------------------------
+
