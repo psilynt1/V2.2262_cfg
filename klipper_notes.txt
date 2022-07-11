@@ -45,12 +45,22 @@ Add four lines to /etc/nginx/sites-available/fluidd
 #####--------------------------------------------------------------------------
 
 #####--------------------------------------------------------------------------
-git commit changes
+git notes
 
+- create repo
     git init
     git remote add origin https://github.com/psilynt1/V2.2262_cfg.git
 
+- commit changes
     git add .
     git commit -m "code comment cleanup"
     git push -u origin master
+
+- show diff between local and remote branches
+    git diff @{upstream}
+
+- reset local branch
+    git reset --hard origin/master
+
+
 #####--------------------------------------------------------------------------
