@@ -18,33 +18,6 @@ Compile klipper MCU firmware:
 #####--------------------------------------------------------------------------
 
 #####--------------------------------------------------------------------------
-Cura startup gcode : 
-PRINT_START BED={material_bed_temperature_layer_0} HOTEND={material_print_temperature_layer_0} CHAMBER={build_volume_temperature}
-#####--------------------------------------------------------------------------
-
-#####--------------------------------------------------------------------------
-Formula to calculate relative_reference_index (center of bed)
-[(7x7)-1] / 2 = 24
-#####--------------------------------------------------------------------------
-
-#####--------------------------------------------------------------------------
-Generate nginx self signed ssl cert
-- cd /etc/ssl/
-- sudo openssl genrsa -out fluidd.key 2048
-- sudo openssl req -new -x509 -sha256 -key fluidd.key -out fluidd.crt -days 2100 -subj /CN=fluidd.local -addext "subjectAltName = DNS.1:fluidd.local, IP.1:192.168.180.137"
-
-Add four lines to /etc/nginx/sites-available/fluidd
-    listen 443 ssl http2;
-    ssl on;
-    ssl_certificate /etc/ssl/fluidd.crt;
-    ssl_certificate_key /etc/ssl/fluidd.key;
-
-#####--------------------------------------------------------------------------
-
-
-#####--------------------------------------------------------------------------
-
-#####--------------------------------------------------------------------------
 git notes
 
 - create repo
@@ -61,6 +34,40 @@ git notes
 
 - reset local branch
     git reset --hard origin/master
-
+#####--------------------------------------------------------------------------
 
 #####--------------------------------------------------------------------------
+Cura startup gcode : 
+PRINT_START BED={material_bed_temperature_layer_0} HOTEND={material_print_temperature_layer_0} CHAMBER={build_volume_temperature}
+#####--------------------------------------------------------------------------
+
+#####--------------------------------------------------------------------------
+Useful Cura find/replace regexs :
+
+# Remove M141 so klipper doesnt complain
+FIND = (M141\s)(S[0-9.]+\n)
+REPLACE =
+
+# Disable fan for specific layer
+FIND = (\;LAYER\:1\nM106\s)(S[0-9.]+\n)
+REPLACE = ;LAYER:1\nM106 S0 ;modified with replace regex \n
+#####--------------------------------------------------------------------------
+
+#####--------------------------------------------------------------------------
+Formula to calculate relative_reference_index (center of bed) :
+[(7x7)-1] / 2 = 24
+#####--------------------------------------------------------------------------
+
+#####--------------------------------------------------------------------------
+Generate nginx self signed ssl cert
+- cd /etc/ssl/
+- sudo openssl genrsa -out fluidd.key 2048
+- sudo openssl req -new -x509 -sha256 -key fluidd.key -out fluidd.crt -days 2100 -subj /CN=fluidd.local -addext "subjectAltName = DNS.1:fluidd.local, IP.1:192.168.180.137"
+
+Add four lines to /etc/nginx/sites-available/fluidd
+    listen 443 ssl http2;
+    ssl on;
+    ssl_certificate /etc/ssl/fluidd.crt;
+    ssl_certificate_key /etc/ssl/fluidd.key;
+#####--------------------------------------------------------------------------
+
