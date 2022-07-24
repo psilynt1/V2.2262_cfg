@@ -2,7 +2,7 @@ Voron v2.4 300m V2.2262
 - Formbot v2.4 R1 300mm kit (Aug 2021)
 - Polymaker Black ASA & Purple ABS
 - Raspberry Pi 4 (Klipper + Fluidd)
-- Octopus 1.1
+- Octopus 1.1 with TMC2209s
 - Phaetus Dragon SF hotend
 - Trident MGN12 X-carriage + XY Joints : https://github.com/VoronDesign/Voron-Trident/tree/main/STLs/Gantry
 - DeepFriedHero MGN12H X-Rail : https://deepfriedhero.in/products/mgn12h-linear-rail?variant=39612701049001
@@ -38,7 +38,7 @@ Voron v2.4 300m V2.2262
 - DIN Rail Wago 5x3 Mount (uses trident rs25 bracket) : https://discord.com/channels/460117602945990666/635687829254701107/889172767147176028
 - 3mm Weather stripping : https://smile.amazon.com/Adhesive-Insulation-Neoprene-Soundproofing-Stripping/dp/B0836Z1HN7/
 - TriangleLabs RNC Nano-coated BMG kit : https://www.aliexpress.com/item/1005003092239261.html
-- Klicky Mod : https://github.com/jlas1/Klicky-Probe
+- Klicky Mod v0.2 : https://github.com/jlas1/Klicky-Probe
 - Klicky Parts Kit : https://deepfriedhero.in/products/klicky-probe-kit
 - Auto-Z Plugin : https://github.com/protoloft/klipper_z_calibration
 - Titanium X/Y extrusion backers : https://deepfriedhero.in/products/titanium-extrusion-backers
@@ -53,9 +53,12 @@ Voron v2.4 300m V2.2262
 - 2020 Enclosure Handle 4mm : https://www.teamfdm.com/files/file/541-2020-enclosure-handle/
 - Bondtech CHT 0.4mm nozzle : https://www.printedsolid.com/products/bondtech-cht-coated-brass-nozzle?variant=40072704098389
 - AB-BN for stock 4020 afterburner : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/ABBN_for_Stock
-- 2.4 R2 Backpack Filter - https://github.com/VoronDesign/Voron-2/tree/V2.4r2/STLs/Exhaust_Filter
-- 2.4 R2 12864 LCD mount - https://github.com/VoronDesign/Voron-2/tree/V2.4r2/STLs/Skirts
-- KVP 5lb Spool Holder - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/raymondh/LargeSpoolHolders
-- 270 degree door hinges - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
-- Tridentified 2.4 power inlet - https://www.teamfdm.com/files/file/398-tridentified-v24-power-inlet/
+- 2.4 R2 Backpack Filter : https://github.com/VoronDesign/Voron-2/tree/V2.4r2/STLs/Exhaust_Filter
+- 2.4 R2 12864 LCD mount : https://github.com/VoronDesign/Voron-2/tree/V2.4r2/STLs/Skirts
+- KVP 5lb Spool Holder : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/raymondh/LargeSpoolHolders
+- 270 degree door hinges : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
+- Tridentified 2.4 power inlet : https://www.teamfdm.com/files/file/398-tridentified-v24-power-inlet/
+- DFH EPDM rubber feet : https://deepfriedhero.in/products/epdm-rubber-feet-set-of-4?variant=40949401452713
+- Magnetic hotend fan cover : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/magnet-fan-cover
+
 
