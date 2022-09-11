@@ -13,8 +13,8 @@
 - Phaetus Dragon SF black hotend : https://cn.phaetus.com/dragon-hotend-st/
 - Bondtech CHT 0.4mm nozzle : https://www.printedsolid.com/products/bondtech-cht-coated-brass-nozzle?variant=40072704098389
 - TriangleLabs RNC Nano-coated BMG kit : https://www.aliexpress.com/item/1005003092239261.html
+- Stealthburner 2-piece Toolhead PCB (hartk) : https://www.onetwo3d.co.uk/product/hartk-stealthburner-toolhead-pcb-2-piece/
 - LDO Stepper Motor 36STH20-1004AHG(XH) : https://www.onetwo3d.co.uk/product/ldo-stepper-motor-36sth20-1004ahg/
-- HartK 1PC Stealthburner Toolhead PCB : https://www.onetwo3d.co.uk/product/stealthburner-toolhead-pcb-by-hartk/
 - NMB 04010SS-24N-AT-00 40x10 hotend fan : https://www.digikey.com/en/products/detail/nmb-technologies-corporation/04010SS-24N-AT-00/6204931
 - GDSTime 5015 parts fan : https://www.onetwo3d.co.uk/product/gdstime-5015-24vdc-blower-dual-ball-bearing/
 - Klicky Mod v0.2 : https://github.com/jlas1/Klicky-Probe
@@ -24,9 +24,9 @@
 - V2.4 ACM Panel Set (Aluminum Composite Material) : https://www.printedsolid.com/products/voron-v2-panel-set-made-from-aluminum-composite-material
 - 270 degree door hinges : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
 - X/Y Endstop Microswitch Pod with connector : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/BladeScraper-Designs/Microswitch_Pod_With_Conector
+- Titanium X/Y extrusion backers : https://deepfriedhero.in/products/titanium-extrusion-backers
 - hartk SexBolt Z Endstop : https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_SexBolt_ZEndstop
 - Sexbolt hardware kit : https://kb-3d.com/store/voron/301-hartk-sexbolt-z-endstop-mod-for-voron-v2-hardware-kit-1634072159749.html
-- Titanium X/Y extrusion backers : https://deepfriedhero.in/products/titanium-extrusion-backers
 - akio42 2.2 z-belt covers : https://github.com/Akio-42/Voron/tree/main/mods/z_belt_cover
 - 3mm Weather stripping : https://smile.amazon.com/Adhesive-Insulation-Neoprene-Soundproofing-Stripping/dp/B0836Z1HN7/
 - KVP 5lb Spool Holder : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/raymondh/LargeSpoolHolders
