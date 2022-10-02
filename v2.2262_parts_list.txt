@@ -6,90 +6,90 @@
 
 - Formbot v2.4 R1 300mm kit (ordered Aug 2021)
 - Polymaker ASA Black & Purple
-- Updated all parts to V2.4R2 Aug 2022
+- Updated all parts to 2.4 R2 & SB RC1 Aug 2022
 
 ## TOOLHEAD
-- Stealthburner Toolhead RC1 : https://github.com/VoronDesign/Voron-Stealthburner
-- Phaetus Dragon SF black hotend : https://cn.phaetus.com/dragon-hotend-st/
-- Bondtech CHT 0.4mm nozzle : https://www.printedsolid.com/products/bondtech-cht-coated-brass-nozzle?variant=40072704098389
-- TriangleLabs RNC Nano-coated BMG kit : https://www.aliexpress.com/item/1005003092239261.html
-- Stealthburner 2-piece Toolhead PCB (hartk) : https://www.onetwo3d.co.uk/product/hartk-stealthburner-toolhead-pcb-2-piece/
-- LDO Stepper Motor 36STH20-1004AHG(XH) : https://www.onetwo3d.co.uk/product/ldo-stepper-motor-36sth20-1004ahg/
-- NMB 04010SS-24N-AT-00 40x10 hotend fan : https://www.digikey.com/en/products/detail/nmb-technologies-corporation/04010SS-24N-AT-00/6204931
-- GDSTime 5015 parts fan : https://www.onetwo3d.co.uk/product/gdstime-5015-24vdc-blower-dual-ball-bearing/
-- Klicky Mod v0.2 : https://github.com/jlas1/Klicky-Probe
-- DFH Klicky parts kit : https://deepfriedhero.in/products/klicky-probe-kit
+- Stealthburner Clockwork2 Toolhead         -: https://github.com/VoronDesign/Voron-Stealthburner
+- Phaetus Dragon SF black hotend            -: https://cn.phaetus.com/dragon-hotend-st/
+- Bondtech CHT 0.4mm nozzle                 -: https://www.printedsolid.com/products/bondtech-cht-coated-brass-nozzle?variant=40072704098389
+- TriangleLabs RNC Nano-coated BMG kit      -: https://www.aliexpress.com/item/1005003092239261.html
+- Stealthburner 2-pc Toolhead PCB (hartk)   -: https://www.onetwo3d.co.uk/product/hartk-stealthburner-toolhead-pcb-2-piece/
+- LDO Stepper Motor 36STH20-1004AHG(XH)     -: https://www.onetwo3d.co.uk/product/ldo-stepper-motor-36sth20-1004ahg/
+- NMB 04010SS-24N-AT-00 40x10 hotend fan    -: https://www.digikey.com/en/products/detail/nmb-technologies-corporation/04010SS-24N-AT-00/6204931
+- GDSTime 5015 parts fan                    -: https://www.onetwo3d.co.uk/product/gdstime-5015-24vdc-blower-dual-ball-bearing/
+- Klicky Mod v0.2                           -: https://github.com/jlas1/Klicky-Probe
+- DFH Klicky parts kit                      -: https://deepfriedhero.in/products/klicky-probe-kit
 
 ## FRAME
-- V2.4 ACM Panel Set (Aluminum Composite Material) : https://www.printedsolid.com/products/voron-v2-panel-set-made-from-aluminum-composite-material
-- 270 degree door hinges : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
-- X/Y Endstop Microswitch Pod with connector : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/BladeScraper-Designs/Microswitch_Pod_With_Conector
-- Titanium X/Y extrusion backers : https://deepfriedhero.in/products/titanium-extrusion-backers
-- hartk SexBolt Z Endstop : https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_SexBolt_ZEndstop
-- Sexbolt hardware kit : https://kb-3d.com/store/voron/301-hartk-sexbolt-z-endstop-mod-for-voron-v2-hardware-kit-1634072159749.html
-- akio42 2.2 z-belt covers : https://github.com/Akio-42/Voron/tree/main/mods/z_belt_cover
-- 3mm Weather stripping : https://smile.amazon.com/Adhesive-Insulation-Neoprene-Soundproofing-Stripping/dp/B0836Z1HN7/
-- KVP 5lb Spool Holder : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/raymondh/LargeSpoolHolders
-- Quick panel clips : https://www.printables.com/model/233180-voron-quick-panel-clip
-- Squash ball feet (z-drive mod compatible): https://github.com/Amarpal89/VoronUsers/tree/master/printer_mods/Slidr/PanzerBalls2.4
-- Double-yellow squash balls : https://smile.amazon.com/Tecnifibre-Double-Yellow-Squash-Balls/dp/B01NBLQ12U
+- V2.4 ACM Panel Set (Aluminum Composite Material)  -: https://www.printedsolid.com/products/voron-v2-panel-set-made-from-aluminum-composite-material
+- 270 degree door hinges                            -: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge
+- X/Y Endstop Microswitch Pod with connector        -: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/BladeScraper-Designs/Microswitch_Pod_With_Conector
+- Titanium X/Y extrusion backers                    -: https://deepfriedhero.in/products/titanium-extrusion-backers
+- hartk SexBolt Z Endstop                           -: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_SexBolt_ZEndstop
+- Sexbolt hardware kit                              -: https://kb-3d.com/store/voron/301-hartk-sexbolt-z-endstop-mod-for-voron-v2-hardware-kit-1634072159749.html
+- akio42 2.2 z-belt covers                          -: https://github.com/Akio-42/Voron/tree/main/mods/z_belt_cover
+- 3mm Weather stripping                             -: https://smile.amazon.com/Adhesive-Insulation-Neoprene-Soundproofing-Stripping/dp/B0836Z1HN7/
+- KVP 5lb Spool Holder                              -: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/raymondh/LargeSpoolHolders
+- Quick panel clips                                 -: https://www.printables.com/model/233180-voron-quick-panel-clip
+- Squash ball feet (z-drive mod compatible)         -: https://github.com/Amarpal89/VoronUsers/tree/master/printer_mods/Slidr/PanzerBalls2.4
+- Double-yellow squash balls                        -: https://smile.amazon.com/Tecnifibre-Double-Yellow-Squash-Balls/dp/B01NBLQ12U
 
 ## BED
-- Mandala Roseworks standard bed : https://www.mandalaroseworks.com/shop/voron/voron-300-standard-bed
-- Wham Bam magnet & spring steel 310x310 : https://whambam3d.com/collections/build-surfaces/products/flexi-plates-with-pre-installed-pei-build-surface?variant=32081953947746
-- Gizmo Dorks 310x320x0.56mm smooth PEI sheet : https://smile.amazon.com/Gizmo-Dorks-Printer-Surface-Compatible/dp/B0866BV7KJ/
-- Keenovo Heater mat : https://3dmakerparts.com/products/keenovo-silicone-heater?variant=39472431530191
-- Purge bucket sheet stops : https://github.com/VoronDesign/VoronUsers/tree/master/abandoned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_%26_Nozzle_Scrubber
-- Shorter purge bucket (bed wago compatible) : https://github.com/mikhailbot/VoronMods/tree/main/Decontaminator-Purge-Bucket
-- Shorter bed wagos (purge bucket compatible) : https://discord.com/channels/460117602945990666/635687829254701107/863863631686271018
-- Nevermore v5 Duo : https://github.com/nevermore3d/Nevermore_Micro/tree/master/V5_Duo
-- GDSTime 5015 fan x2 (nevermore) : https://deepfriedhero.in/products/5015-24v-dual-ball-blower
+- Mandala Roseworks standard bed                -: https://www.mandalaroseworks.com/shop/voron/voron-300-standard-bed
+- Wham Bam magnet & spring steel 310x310        -: https://whambam3d.com/collections/build-surfaces/products/flexi-plates-with-pre-installed-pei-build-surface?variant=32081953947746
+- Gizmo Dorks 310x320x0.56mm smooth PEI sheet   -: https://smile.amazon.com/Gizmo-Dorks-Printer-Surface-Compatible/dp/B0866BV7KJ/
+- Keenovo Heater mat                            -: https://3dmakerparts.com/products/keenovo-silicone-heater?variant=39472431530191
+- Purge bucket sheet stops                      -: https://github.com/VoronDesign/VoronUsers/tree/master/abandoned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_%26_Nozzle_Scrubber
+- Shorter purge bucket (bed wago compatible)    -: https://github.com/mikhailbot/VoronMods/tree/main/Decontaminator-Purge-Bucket
+- Shorter bed wagos (purge bucket compatible)   -: https://discord.com/channels/460117602945990666/635687829254701107/863863631686271018
+- Nevermore v5 Duo                              -: https://github.com/nevermore3d/Nevermore_Micro/tree/master/V5_Duo
+- GDSTime 5015 fan x2 (nevermore)               -: https://deepfriedhero.in/products/5015-24v-dual-ball-blower
 
 ## ELECTRONICS
 - Octopus 1.1 with TMC2209s
 - Raspberry Pi 4 with Klipper + Fluidd
-- Misumi Cable Clip (probably ~50x) : https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_Cable_Clip
-- Octopus Vertical Mount : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/rsheng118/BTT_octopus_DIN_vertical_mount
-- LRS 200 Vertical Mount : https://github.com/10Second/Voron_Mods/tree/main/LRS_PSU_DoubleRail_Mount
-- Trident Raspberry Pi Mount : https://github.com/VoronDesign/Voron-Trident/tree/main/STLs/ElectronicsBay
-- ADXL345 : https://deepfriedhero.in/products/adxl345-accelerometer?variant=40562093981865
-- KW10 Filament Runout Sensor : https://www.teamfdm.com/files/file/323-filament-runout/
-- Tridentified 2.4 power inlet : https://www.teamfdm.com/files/file/398-tridentified-v24-power-inlet/
-- Z-Chain guide thermistor mount : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount
-- FYSETC HT-NTC100K thermistors (1x frame, 1x gantry) : https://smile.amazon.com/gp/product/B07QDQXDQ5
-- Skirt Fans WAGO mount : https://www.printables.com/model/178869-voron-24-el-fans-wago-mount/files
+- Misumi Cable Clip (probably ~50x)                 -: https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_Cable_Clip
+- Octopus Vertical Mount                            -: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/rsheng118/BTT_octopus_DIN_vertical_mount
+- LRS 200 Vertical Mount                            -: https://github.com/10Second/Voron_Mods/tree/main/LRS_PSU_DoubleRail_Mount
+- Trident Raspberry Pi Mount                        -: https://github.com/VoronDesign/Voron-Trident/tree/main/STLs/ElectronicsBay
+- ADXL345                                           -: https://deepfriedhero.in/products/adxl345-accelerometer?variant=40562093981865
+- KW10 Filament Runout Sensor                       -: https://www.teamfdm.com/files/file/323-filament-runout/
+- Tridentified 2.4 power inlet                      -: https://www.teamfdm.com/files/file/398-tridentified-v24-power-inlet/
+- Z-Chain guide thermistor mount                    -: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount
+- FYSETC HT-NTC100K thermistors (frame & gantry)    -: https://smile.amazon.com/gp/product/B07QDQXDQ5
+- Skirt Fans WAGO mount                             -: https://www.printables.com/model/178869-voron-24-el-fans-wago-mount/files
 
 ## MOTION
-- hartk GE5C z-joints : https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C
-- GE5C bushings : https://deepfriedhero.in/products/ge5c-spherical-bushing-plain-bearing
-- 2.4 z-drive tensioner mod : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/V2.4_z_drive_motor_tensioner_mod
-- DFH MGN12H X-Rail : https://deepfriedhero.in/products/mgn12h-linear-rail?variant=39612701049001
-- Z-Belt Clips : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ChenTheDesignMaker/Z_Belt_Clip
-- Z-Belt Clip Upper : https://www.printables.com/model/84737-z-belt-clip-upper-for-voron-24
-- Runice Black 20T Idler : https://deepfriedhero.in/products/black-0t-idler-bore-5mm-width-6mm-by-runice
+- hartk GE5C z-joints       -: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C
+- GE5C bushings             -: https://deepfriedhero.in/products/ge5c-spherical-bushing-plain-bearing
+- 2.4 z-drive tensioner mod -: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/V2.4_z_drive_motor_tensioner_mod
+- DFH MGN12H X-Rail         -: https://deepfriedhero.in/products/mgn12h-linear-rail?variant=39612701049001
+- Z-Belt Clips              -: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ChenTheDesignMaker/Z_Belt_Clip
+- Z-Belt Clip Upper         -: https://www.printables.com/model/84737-z-belt-clip-upper-for-voron-24
+- Runice Black 20T Idler    -: https://deepfriedhero.in/products/black-0t-idler-bore-5mm-width-6mm-by-runice
 
 ## WIRING
-- Linneo Heluflon wire 300mm main wiring harness : https://www.onetwo3d.co.uk/product/voron-2-4-wiring-harness-300mm2/
-- Linneo Stealthburner LED wiring harness (external) : https://www.onetwo3d.co.uk/product/linneo-stealthburner-led-upgrade-harness-external/
-- Linneo Stealthburner LED wiring harness (internal) : https://www.onetwo3d.co.uk/product/linneo-stealthburner-internal-led-harness/
-- Wago assortment : https://smile.amazon.com/Splicing-Connector-Lever-Nut-Assortment-Pocket/dp/B07NKSHVF6/
-- LRS 200 PSU 5x3 Wago Mount : https://discord.com/channels/460117602945990666/635687829254701107/881346164644007946
-- Din Rail Cable Mount (10x) : https://www.thingiverse.com/thing:2613804
-- 10x11 Cable Chain Mounts 3x (2x 10x11 & 1x 10x15) : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/mjoaris/10x11_Cable_Chain_Endcaps
-- DIN Rail Wago 5x3 Mount (uses trident rs25 bracket) : https://discord.com/channels/460117602945990666/635687829254701107/889172767147176028
-- 2.4 Formbot Cable Chain Guide Fullsize Cover : https://www.prusaprinters.org/prints/85432-voron-24-china-chain-guide
+- Linneo Heluflon wire 300mm main wiring harness        -: https://www.onetwo3d.co.uk/product/voron-2-4-wiring-harness-300mm2/
+- Linneo Stealthburner LED wiring harness (external)    -: https://www.onetwo3d.co.uk/product/linneo-stealthburner-led-upgrade-harness-external/
+- Linneo Stealthburner LED wiring harness (internal)    -: https://www.onetwo3d.co.uk/product/linneo-stealthburner-internal-led-harness/
+- Wago assortment                                       -: https://smile.amazon.com/Splicing-Connector-Lever-Nut-Assortment-Pocket/dp/B07NKSHVF6/
+- LRS 200 PSU 5x3 Wago Mount                            -: https://discord.com/channels/460117602945990666/635687829254701107/881346164644007946
+- Din Rail Cable Mount (10x)                            -: https://www.thingiverse.com/thing:2613804
+- 10x11 Cable Chain Mounts 3x (2x 10x11 & 1x 10x15)     -: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/mjoaris/10x11_Cable_Chain_Endcaps
+- DIN Rail Wago 5x3 Mount (uses trident rs25 bracket)   -: https://discord.com/channels/460117602945990666/635687829254701107/889172767147176028
+- 2.4 Formbot Cable Chain Guide Fullsize Cover          -: https://www.prusaprinters.org/prints/85432-voron-24-china-chain-guide
 
 ## ACCESSORIES
-- Wansview 1080p Camera : https://smile.amazon.com/Microphone-Wansview-Correction-Streaming-Conference/dp/B088D3VXC6
-- Wansview Camera Mount : https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Rhastlyn/WansviewCameraMount
-- SuperSlim LED clips (30x) : https://www.teamfdm.com/files/file/448-superslim-led-bar-with-simple-bracket/
-- weisuan-Tuodi COB LED Strip (5MM Width, 3000K, DC 24V) : https://smile.amazon.com/dp/B09GKC5WV7
-- 2020 Enclosure Handle 4mm (5x) : https://www.teamfdm.com/files/file/541-2020-enclosure-handle/
-- Carbon Filter sheets (chamber filters) : https://smile.amazon.com/gp/product/B07D5SBPN8
-- Virgin Coconut Shell pellets (nevermore filter) : https://smile.amazon.com/Premium-Virgin-Coconut-Activated-Charcoal/dp/B00XIIDB8Y/
+- Wansview 1080p Camera                     -: https://smile.amazon.com/Microphone-Wansview-Correction-Streaming-Conference/dp/B088D3VXC6
+- Wansview Camera Mount                     -: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Rhastlyn/WansviewCameraMount
+- SuperSlim LED clips (30x)                 -: https://www.teamfdm.com/files/file/448-superslim-led-bar-with-simple-bracket/
+- weisuan-Tuodi COB LED (5MM,3000K,24V)     -: https://smile.amazon.com/dp/B09GKC5WV7
+- 2020 Enclosure Handle 4mm (5x)            -: https://www.teamfdm.com/files/file/541-2020-enclosure-handle/
+- Carbon Filter sheets (chamber)            -: https://smile.amazon.com/gp/product/B07D5SBPN8
+- Virgin Coconut Shell pellets (nevermore)  -: https://smile.amazon.com/Premium-Virgin-Coconut-Activated-Charcoal/dp/B00XIIDB8Y/
 
 ## KLIPPER PLUGINS
-- Frame Expansion Compensation Plugin : https://github.com/alchemyEngine/klipper_frame_expansion_comp
-- Auto-Z Plugin : https://github.com/protoloft/klipper_z_calibration
+- Frame Expansion Compensation Plugin   -: https://github.com/alchemyEngine/klipper_frame_expansion_comp
+- Auto-Z Plugin                         -: https://github.com/protoloft/klipper_z_calibration
 
 
