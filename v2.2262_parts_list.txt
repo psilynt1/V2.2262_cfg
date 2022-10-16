@@ -32,7 +32,7 @@
 - 3mm Weather stripping                    --: https://smile.amazon.com/Adhesive-Insulation-Neoprene-Soundproofing-Stripping/dp/B0836Z1HN7/
 - KVP 5lb spool holder                     --: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/raymondh/LargeSpoolHolders
 - Quick panel clips                        --: https://www.printables.com/model/233180-voron-quick-panel-clip
-- Squash ball feet (z-drive mod)           --: https://github.com/Amarpal89/VoronUsers/tree/master/printer_mods/Slidr/PanzerBalls2.4
+- Squash ball feet (z-drive mod compat.)   --: https://github.com/Amarpal89/VoronUsers/tree/master/printer_mods/Slidr/PanzerBalls2.4
 - Double-yellow dot squash balls           --: https://smile.amazon.com/Tecnifibre-Double-Yellow-Squash-Balls/dp/B01NBLQ12U
 
 ## BED
