@@ -18,7 +18,7 @@
 - LDO Stepper Motor 36STH20-1004AHG(XH)     --: https://www.onetwo3d.co.uk/product/ldo-stepper-motor-36sth20-1004ahg/
 - NMB 04010SS-24N-AT-00 40x10 hotend fan    --: https://www.digikey.com/en/products/detail/nmb-technologies-corporation/04010SS-24N-AT-00/6204931
 - GDSTime 5015 parts fan                    --: https://www.onetwo3d.co.uk/product/gdstime-5015-24vdc-blower-dual-ball-bearing/
-- Klicky Mod v0.2                           --: https://github.com/jlas1/Klicky-Probe
+- KlickyNG Magnetic Probe                   --: https://github.com/jlas1/Klicky-Probe
 - DFH Klicky parts kit                      --: https://deepfriedhero.in/products/klicky-probe-kit
 - Fysetc POM 50T BMG gear                   --: https://www.aliexpress.us/item/3256804451003647.html
 
