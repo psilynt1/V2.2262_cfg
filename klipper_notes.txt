@@ -1,5 +1,5 @@
 #####--------------------------------------------------------------------------
-Compile klipper MCU firmware:
+Compile klipper MCU firmware for BTT Octo
 - ssh pi@192.168.180.137
 - cd ~/klipper/
 - make menuconfig
@@ -13,6 +13,14 @@ Compile klipper MCU firmware:
 - Rename klipper.bin to firmware.bin 
 - Restart Octopus with SD card inserted
 - firmware.bin renamed to firmware.cur = flash success
+
+Compile klipper for MCU Rpi input shaper
+- ssh pi@192.168.180.137
+- cd ~/klipper/
+- make menuconfig
+- Select Linux process in the menu
+- Save and quit
+- make flash
 
 - https://docs.vorondesign.com/build/software/octopus_klipper.html
 #####--------------------------------------------------------------------------
